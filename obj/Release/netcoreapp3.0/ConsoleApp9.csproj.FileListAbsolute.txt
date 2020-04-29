@@ -1,0 +1,11 @@
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.exe
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.deps.json
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.runtimeconfig.json
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.dll
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\bin\Release\netcoreapp3.0\ConsoleApp9.pdb
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\obj\Release\netcoreapp3.0\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\obj\Release\netcoreapp3.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\obj\Release\netcoreapp3.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\obj\Release\netcoreapp3.0\ConsoleApp9.dll
+C:\Users\dodyj\source\repos\ConsoleApp9\ConsoleApp9\obj\Release\netcoreapp3.0\ConsoleApp9.pdb
